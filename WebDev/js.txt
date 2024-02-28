@@ -1,0 +1,5 @@
+in boolean expect 0 everything is true.
+
+https://roadmap.sh/nodejs
+
+
